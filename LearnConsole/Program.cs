@@ -12,7 +12,7 @@ namespace LearnConsole
 
 
             Console.Beep(523, 500);
-            /*
+            
                         int a = 10;
                         int b = 15;
                         int summer = a + b * 2;
@@ -47,7 +47,8 @@ namespace LearnConsole
                         Console.Beep();
                         //задержка консоли от закрытия
                         Console.ReadLine();
-            */
+                        
+                Console.WriteLine("Test text");
         }
     }
 }
