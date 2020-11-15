@@ -9,8 +9,8 @@ namespace LearnConsole
             Console.WriteLine("Hello World!");
 
             Console.WriteLine(12.3m);
-
-
+            
+Console.Beep(523, 500);
             Console.Beep(523, 500);
             
                         int a = 10;
