@@ -49,6 +49,8 @@ namespace LearnConsole
                         Console.ReadLine();
                         
                 Console.WriteLine("Test text");
+                        //2020.11.15 ---> Создание интерактивной вселенной LiveSix
+            Console.WriteLine("Creating an interactive life six");
         }
     }
 }
